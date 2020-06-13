@@ -1,8 +1,8 @@
 
 #include <ESP8266WiFi.h>
 
-const char* ssid = "xSpendiqL";
-const char* password = "Bojonegoro1";
+const char* ssid = "yourWifiName";
+const char* password = "yourWifiPassword";
 
 uint8_t Pwm1 = D1; //Nodemcu PWM pin 
 uint8_t Pwm2 = D2; //Nodemcu PWM pin
